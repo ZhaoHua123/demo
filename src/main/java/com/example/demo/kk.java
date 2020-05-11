@@ -10,6 +10,6 @@ public class kk {
     }
     @RequestMapping("/hello")
     public void hello(){
-
+        System.out.println("ashjkashdkj");
     }
 }
